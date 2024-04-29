@@ -18,3 +18,16 @@ true => 1;  false => 0
 let a=33;
 let stringNumber=String(a);
 console.log(stringNumber);
+
+// let str1="Hello"
+// let str2=" Kanhaiya"
+// let str3=str1+str2
+// console.log(str3);
+
+// console.log(("1"+2));
+// console.log((1+"2"));
+// console.log(("1"+2+2));
+// console.log(1+2+"2");
+
+// console.log(+true);//1
+
