@@ -31,3 +31,7 @@ console.log(stringNumber);
 
 // console.log(+true);//1
 
+// console.log((null>0));//false
+// console.log(null==0);
+//false
+// console.log(null>=0);//true
